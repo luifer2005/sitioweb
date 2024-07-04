@@ -1,0 +1,43 @@
+
+body{
+    background-attachment: fixed;
+}
+
+
+
+
+.hola{
+    background-attachment: fixed;
+    background-color: cadetblue;
+    font-family:Algerian;
+    color: black;
+    margin: 250px;
+ 
+}
+.hola1{
+
+
+    padding: 15px;
+    background-image:url(patas.jpg);
+    font-family: Bodoni MT;
+    color: black;
+    line-height: 18px;
+    padding: 20px;
+
+    
+}
+.imagen{
+    width:125px;
+    
+}
+.boton{
+    width: 70px;
+    height: 70px;
+    
+}
+
+
+
+
+
+

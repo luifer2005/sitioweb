@@ -1,0 +1,17 @@
+body{
+    background-attachment: fixed;
+    font-family: Arial;
+}
+
+.imagen{
+    margin: 1%;
+    
+}
+
+.imagen:hover{
+    transform: translateY(-5%);
+}
+
+
+
+

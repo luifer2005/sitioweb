@@ -1,0 +1,33 @@
+.h{
+    display: flex;
+    background-image: url(fondo3.jpg);
+    background-attachment: fixed;
+        
+}
+
+.contenedor{
+    padding:5px;
+    width: 60%;
+    margin: 25px;
+    display: flex;
+    
+}
+
+.cuerpo-img{
+    background-color:white;
+    width: 180px;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: left;
+    font-family:cursive;
+    
+}
+
+.texto{
+    background-color: chocolate;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: justify;
+    font-family: Arial;
+}

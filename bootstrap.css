@@ -1,0 +1,57 @@
+.h{
+    background-image: url(no.jfif);
+    padding: 10px;
+    background-attachment: fixed;
+}
+
+.container{
+    padding: 5px;
+    display: flex;
+    width: 60%;
+    
+}
+
+.img-thumbnail{
+    width: 200px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.body:hover{
+   box-shadow: 8px 15px 8px black;
+    transform: translateY(-1%);
+    
+}
+
+.body{
+    background-color: black;
+    width: 200px;
+    border-radius: 20px;
+    
+}
+
+
+
+.card{
+    border-radius: 15px;
+    
+}
+
+.card-body{
+    font-family: sans-serif;
+    
+}
+
+.nav{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    width: 70%;
+}
+
+.nav:hover{
+       box-shadow: 8px 15px 8px black;
+    transform: translateY(-1%);
+}
+
