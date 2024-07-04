@@ -1,0 +1,86 @@
+.card-img-top{
+    width: 100px;
+    margin-left: 25%;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.container{
+    width:25%;
+    display: flex;
+}
+
+.card{
+    margin: 10%;
+    box-shadow: 0 10px 15px black;
+    font-family: Arial;
+    transition: 0.5s;
+    border-radius: 30px;
+    }
+    
+    .card:hover{
+        transform: translateY(-4%);
+        background: #acb6e5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #86fde8, #acb6e5);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #86fde8, #acb6e5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    }
+.botones{
+    width: 35%;
+    margin: 2.5%;
+}
+
+.btn{
+    margin: 3%;
+    box-shadow: 0 10px 10px black;
+    transition: 0.4s;
+}
+
+.btn:hover{
+    transform: translateY(-10%);
+}
+
+.redes3 {
+    font-family: Arial;
+    background: #373b44; /* fallback for old browsers */
+    background: -webkit-linear-gradient(
+      to right,
+      #4286f4,
+      #373b44
+    ); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(
+      to right,
+      #4286f4,
+      #373b44
+    ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+  }
+  
+  .redessoci {
+    width: 29%;
+    margin-top: -65px;
+  }
+  
+  .copy {
+    width: 27%;
+    font-family:Arial;
+    color: white;
+  }
+
+  .face {
+    width: 50px;
+  }
+  
+  .face:hover {
+    filter: drop-shadow(8px 10px 10px black);
+    transform: translateY(-1%);
+  }
+  
+  .face1 {
+    width: 46px;
+  }
+  
+  .face1:hover {
+    filter: drop-shadow(0px 10px 10px black);
+    transform: translateY(-1%);
+  }
