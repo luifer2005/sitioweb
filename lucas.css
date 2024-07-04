@@ -1,0 +1,36 @@
+.container{
+   padding: 10px;
+    display: flex;
+    width: 70%;
+
+}
+.card{
+    float: left;
+    padding: 10px;
+    margin: 5px;
+   background-color: yellowgreen;
+   border-radius: 35px;
+
+  
+    
+}
+
+.card:hover{
+       box-shadow: 8px 15px 8px black;
+    transform: translateY(-1%);
+}
+
+.card-body {
+    background: yellow;
+   height: 10px;
+    border-radius: 35px;
+    text-align: left;
+}
+
+no{
+    background-color: white;
+    background-attachment: inherit;
+    
+    
+}
+
